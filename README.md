@@ -27,6 +27,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sean9061&color=43c6ac&style=flat-square" alt="Profile views" />
   <a href="https://x.com/sean_9061">
-    <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=flat-square&logo=X&logoColor=white" alt="X (Twitter)" />
+    <img src="https://img.shields.io/badge/SEAN_9061-000000?style=flat-square&logo=X&logoColor=white" alt="X (Twitter)" />
   </a>
 </p>
