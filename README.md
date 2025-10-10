@@ -4,3 +4,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sean9061&layout=compact)
 
 [![My Skills](https://skillicons.dev/icons?i=python,go,ts,react,docker,arduino,unity,ubuntu,postgres&theme=dark)](https://skillicons.dev)
+
+![Profile views](https://komarev.com/ghpvc/?username=sean9061&color=blue)
+[![X (Twitter)](https://img.shields.io/badge/X%20(Twitter)-000000?style=flat-square&logo=X&logoColor=white)](https://x.com/sean_9061)
