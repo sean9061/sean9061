@@ -3,14 +3,16 @@
 <p align="center">
   <a href="https://github.com/sean9061">
     <img 
-      src="https://github-readme-stats.vercel.app/api?username=sean9061&show_icons=true&title_color=43c6ac&text_color=ffffff&icon_color=43c6ac&bg_color=gradient,16222a,3a6073&border_color=114357&ring_color=43c6ac&hide_border=false" 
+      src="./profile/stats.svg"
       height="170"
+      alt="GitHub Stats"
     />
   </a>
   <a href="https://github.com/sean9061">
     <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=sean9061&layout=compact&title_color=43c6ac&text_color=ffffff&bg_color=gradient,16222a,3a6073&border_color=114357&hide_border=false" 
+      src="./profile/top-langs.svg"
       height="170"
+      alt="Top Languages"
     />
   </a>
 </p>
